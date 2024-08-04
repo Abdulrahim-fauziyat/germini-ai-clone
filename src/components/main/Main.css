@@ -184,10 +184,7 @@
         width: 150px;
     }
 
-    .main-bottom img{
-        width: 20px;
 
-    }
     .search-box{
         padding: 5px 10px;
 
@@ -208,38 +205,21 @@
         font-size: 1rem;
     }
 
-    .nav img {
-        width: 25px;
-        height: 25px;
-    }
+   
 
     .card {
         flex: 1 1 100%;
     }
 
-    .card img {
-        width: 20px;
-        height: 20px;
-    }
+  
 
-    .result-title img {
-        width: 25px;
-        height: 25px;
-    }
-
-    .result-data img {
-        width: 30px;
-        height: 30px;
-    }
+   
 
     .search-box input {
         font-size: 0.9rem;
     }
 
-    .search-box img {
-        width: 20px;
-        height: 20px;
-    }
+   
 }
 
 @media (max-width: 480px) {
@@ -247,39 +227,18 @@
         font-size: 0.9rem;
     }
 
-    .nav img {
-        width: 20px;
-        height: 20px;
-    }
-
     .card {
         padding: 10px;
         font-size: 0.9rem;
     }
 
-    .card img {
-        width: 18px;
-        height: 18px;
-    }
-
-    .result-title img {
-        width: 20px;
-        height: 20px;
-    }
-
-    .result-data img {
-        width: 25px;
-        height: 25px;
-    }
+   
 
     .search-box input {
         font-size: 0.8rem;
     }
 
-    .search-box img {
-        width: 18px;
-        height: 18px;
-    }
+
 
     .bottom-info {
         font-size: 0.7rem;
